@@ -1,5 +1,15 @@
+table {
+  width: 80%;
+}
 td, th {
   width: 25%;
+  white-space: nowrap;
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+.input-group {
+  margin: 20px 0;
 }
 
 .chart .unit {
