@@ -1,3 +1,11 @@
 td, th {
   width: 25%;
 }
+
+.chart .unit {
+  font-size: 0.8rem;
+}
+
+.chart .legend {
+  text-align: center;
+}
